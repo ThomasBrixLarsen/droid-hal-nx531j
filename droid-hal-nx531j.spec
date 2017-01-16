@@ -1,4 +1,5 @@
 # These and other macros are documented in dhd/droid-hal-device.inc
+%define droid_target_aarch64 1
 %define device nx531j
 %define vendor nubia
 %define vendor_pretty Nubia
